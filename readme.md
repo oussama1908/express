@@ -1,8 +1,6 @@
 
-Certainly! Here's a comprehensive README file for your project:
 
-markdown
-Copy code
+
 # Checkpoint Express
 
 Checkpoint Express is a simple web application built using Node.js, Express, and Pug. It includes Bootstrap for styling and Mocha with Sinon for testing.
